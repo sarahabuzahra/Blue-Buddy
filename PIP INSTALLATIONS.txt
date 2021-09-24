@@ -1,0 +1,8 @@
+PIP INSTALLATIONS NEEDED TO BE DONE FOR THE CODE:
+
+pip install speech_recognition
+pip install pyttsx3
+pip install webbrowser
+pip install pyjokes
+pip install smtplib
+pip install os

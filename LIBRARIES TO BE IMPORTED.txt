@@ -1,0 +1,13 @@
+LIBRARIES TO BE IMPORTED:
+
+
+-speech_recognition as sr
+-pyttsx3
+-datetime
+-wikipedia
+-pyjokes
+-os
+-smtplib
+-webbrowser
+-from tkinter import *
+-from PIL import ImageTk, Image
